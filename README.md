@@ -10,10 +10,10 @@
 
 <h2>For Test APi </h2>
 
-https://springmail.onrender.com/mail
+https://javamail.onrender.com/mail
 -----------------------------------------------------------------
 
-https://springmail.onrender.com/send
+https://javamail.onrender.com/send
 
 <h2>Post Request structure To send Mail </h2>
 
