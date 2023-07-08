@@ -47,36 +47,16 @@ https://javamail.onrender.com/send
 pom.xml
 
 	<dependency>
-
- 
 		<groupId>com.sun.mail</groupId>
-
-  
-		<artifactId>javax.mail</artifactId>
-
-  
+		<artifactId>javax.mail</artifactId>  
 		<version>1.6.2</version>
-
-  
-	</dependency>
-
- 
+         </dependency>
  ----------------------------------------------------------------
-
- 
 <h4>To Validate  model Attribut , add spring-boot-starter-Validator  dependency to pom.xml</h3>
 
-
-
 	<dependency>
-
- 
             <groupId>org.springframework.boot</groupId>
-
-
             <artifactId>spring-boot-starter-validation</artifactId>
-
-
 	</dependency>
 
  ----------------------------------------------------------------------------
