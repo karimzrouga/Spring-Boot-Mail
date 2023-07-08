@@ -30,6 +30,7 @@ https://javamail.onrender.com/send
 
 }
 
+<img  src="https://github.com/karimzrouga/Spring-Boot-Mail/blob/master/postman.png" alt="postman">
 -----------------------------------------------------------------
 
 
