@@ -6,8 +6,6 @@
   <h1>Spring-Boot-Mail <br>JavaMail API – Sending email via  SMTP example</h1>
   <br>
 </div>
------------------------------------------------------------------
-
 <h2>For Test APi </h2>
 
 https://javamail.onrender.com/mail
@@ -21,20 +19,10 @@ https://javamail.onrender.com/send
 {
 
 "emailsource": "sender@example.com",
-
-
 "emaildestination": "receiver@example.com",
-
-
 "body": "Dear John, I hope this email finds you well. I wanted to touch base regarding our upcoming meeting. Can we reschedule it to next Wednesday at 2 PM? Please let me know if that works for you. Best regards, Jane",
-
-
 "objet": "Meeting Rescheduling",
-
-
 "password": "securePassword789"
-
-
 }
 
 -----------------------------------------------------------------
