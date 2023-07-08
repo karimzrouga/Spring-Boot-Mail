@@ -29,7 +29,7 @@ https://javamail.onrender.com/send
 "password": "securePassword789"
 
 }
-
+<h3> Using Postman For test https://www.postman.com/ </h3>
 <img  src="https://github.com/karimzrouga/Spring-Boot-Mail/blob/master/postman.png" alt="postman">
 -----------------------------------------------------------------
 
