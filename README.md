@@ -2,7 +2,7 @@
 
 
 <div align="center">
-	  <img src="https://github.com/karimzrouga/Spring-Boot-Mail/blob/main/Untitled.png?raw=true" alt="logo" width="300%" >  
+	  <img src="https://github.com/karimzrouga/Spring-Boot-Mail/blob/master/Untitled.png?raw=true" alt="logo" width="300%" >  
   <h1>Spring-Boot-Mail <br>JavaMail API – Sending email via  SMTP example</h1>
   <br>
 </div>
