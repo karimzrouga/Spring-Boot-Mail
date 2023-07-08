@@ -19,10 +19,15 @@ https://javamail.onrender.com/send
 {
 
 "emailsource": "sender@example.com",
+
 "emaildestination": "receiver@example.com",
+
 "body": "Dear John, I hope this email finds you well. I wanted to touch base regarding our upcoming meeting. Can we reschedule it to next Wednesday at 2 PM? Please let me know if that works for you. Best regards, Jane",
+
 "objet": "Meeting Rescheduling",
+
 "password": "securePassword789"
+
 }
 
 -----------------------------------------------------------------
