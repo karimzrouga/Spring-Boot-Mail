@@ -58,7 +58,7 @@ pom.xml
 Une erreur de messagerie s'est produite : 535-5.7.8 Username and Password not accepted. Learn more at
 535 5.7.8  https://support.google.com/mail/?p=BadCredentials j13-20020a62b60d000000b00682ad3613eesm4600763pff.51 - gsmtp
 
-To fix it, follow this guide to 
+To fix it, follow this guide to :
 
 <a href="https://support.google.com/accounts/answer/185833?p=InvalidSecondFactor"> create an App  Gmail  Password</a>
 
